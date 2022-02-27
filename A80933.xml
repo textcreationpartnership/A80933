@@ -1,0 +1,400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord Lieutenant of Ireland, to the Honorable William Lenthal Esq; Speaker of the Parliament of England giving an account of the proceedings of the army there under his Lordships command; and several transactions between his Lordship and the Governor of Wexford. Together with a relation of the taking in of Wexford, with the fort, haven and shipping there; and of several other garisons of the enemy. As also the propositions tendred for the rendition of Wexford: and a copy of a censure, under the hand of Nicholas Bishop of Fernes, against Talbot who dyed a Protestant. Ordered by the Parliament, that these letters and transactions be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80933</idno>
+            <idno type="STC">Wing C7101A</idno>
+            <idno type="STC">Thomason E576_2</idno>
+            <idno type="STC">ESTC R206358</idno>
+            <idno type="EEBO-CITATION">99899814</idno>
+            <idno type="PROQUEST">99899814</idno>
+            <idno type="VID">132722</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132722)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2464:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord Lieutenant of Ireland, to the Honorable William Lenthal Esq; Speaker of the Parliament of England giving an account of the proceedings of the army there under his Lordships command; and several transactions between his Lordship and the Governor of Wexford. Together with a relation of the taking in of Wexford, with the fort, haven and shipping there; and of several other garisons of the enemy. As also the propositions tendred for the rendition of Wexford: and a copy of a censure, under the hand of Nicholas Bishop of Fernes, against Talbot who dyed a Protestant. Ordered by the Parliament, that these letters and transactions be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>Sinnot, David.</author>
+                  <author>England and Wales. Parliament. Proceedings. 1649-10-30.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In addition to the letter from Cromwell to Lenthall, dated 4 Oct. 1649, contains a series of letters exchanged between Cromwell and David Sinnot, "governor of the town and castle of Wexford".</note>
+                  <note>Annotation on Thomason copy: "Octo: 30".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Wexford --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132722:1"/>
+            <pb facs="tcp:132722:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Lord Lieutenant of <hi>Ireland,</hi> To the Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England:</hi>
+            </p>
+            <p>Giving an Account of the Proceedings of the Army there under his Lordſhips Command; and ſeveral Tranſactions between his Lordſhip and the Governor of <hi>Wexford.</hi>
+            </p>
+            <p>Together with a Relation of the Taking in of <hi>WEXFORD,</hi> With the Fort, Haven and Shipping there; and of ſeveral other Gariſons of the Enemy.</p>
+            <p>As alſo the Propoſitions tendred for the Rendition of <hi>Wexford:</hi> And a Copy of a Cenſure, under the hand of <hi>Nicholas</hi> Biſhop of <hi>Fernes,</hi> againſt <hi>Talbot</hi> who dyed a Proteſtant.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Parliament, That theſe Letters and Tranſactions be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England.</hi> 1649.</p>
+         </div>
+         <div type="order_of_Parliament">
+            <pb facs="tcp:132722:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, xxx. Octobr. <hi>1649.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That it be referred to the Lord Major of the City of <hi>London,</hi> to take care to diſperſe the ſaid Letters and Tranſ<g ref="char:EOLhyphen"/>actions to all the Miniſters within <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and the Liberties, who are requi<g ref="char:EOLhyphen"/>red reſpectively to Read the ſame in their reſpective Congregations on Thurſday next, and to take notice of this great and wonderful Mercy, in giving in the Fort and Town of <hi>Wex<g ref="char:EOLhyphen"/>ford,</hi> together with the Haven there, and the Shipping in it, as an addition unto the former Mercies, for which that day was ſet apart, and to return all humble Thanks to Almighty God for the ſame.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:132722:2"/>
+            <head>For the Honorable <hi>William Lenthal</hi> Eſquire, Speaker of the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Army marched from <hi>Dublin</hi> about the 23 of <hi>September,</hi> into the Coun<g ref="char:EOLhyphen"/>ty of <hi>Wicklo,</hi> where the enemy had a gariſon about 14 miles from <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> called <hi>Killingkerick,</hi> which they quitting, a Company of the Army was put therein. From thence the Army marched through almoſt a deſolated Countrey, until it came to a paſſage over the River <hi>Doro,</hi> about a mile a<g ref="char:EOLhyphen"/>bove the Caſtle of <hi>Arcklo,</hi> which was the firſt Seat and Honor of the Marques of <hi>Ormonds</hi> family, which he had ſtrongly fortified, but was upon the ap<g ref="char:EOLhyphen"/>proach of the Army quitted, wherein we left another company of foot. From thence the Army marched towards <hi>Wexford,</hi> where in the way was a ſtrong and large Caſtle, at a Town called <hi>Limrick,</hi> the ancient Seat of the <hi>Eſmonds,</hi> where the enemy had a ſtrong gariſon, which they burnt and quitted the day before our coming thither. From thence we marched towards <hi>Ferns,</hi> an Epiſcopal Seat, where was a Caſtle, to which I ſent Colonel <hi>Reynolds</hi> with a party to ſummon it, which accordingly he did, and it was ſurrendred to him; where we ha<g ref="char:EOLhyphen"/>ving put a company, advanced the Army to a paſ<g ref="char:EOLhyphen"/>ſage
+<pb n="4" facs="tcp:132722:3"/>
+over the River <hi>Slane,</hi> which runs down to <hi>Wex<g ref="char:EOLhyphen"/>ford,</hi> and that night marched into the fields of a Village called <hi>Eniſcorfy,</hi> belonging to Maſter <hi>Ro<g ref="char:EOLhyphen"/>bert Wallop,</hi> where was a ſtrong Caſtle very well manned and provided for by the enemy, and cloſe under it in a very fair houſe belonging to the ſame worthy Perſon, A Monaſtery of <hi>Franciſcan Fryers,</hi> the conſiderables in all <hi>Ireland,</hi> they run away the night before we came; we ſummoned the Caſtle, and they refuſed to yield at the firſt, but upon better conſideration, they were willing to deliver the place to us, which accordingly they did, leaving their great Guns, Arms, Ammunition, and proviſions behinde them. Upon <hi>Munday</hi> the firſt of <hi>October,</hi> we came before <hi>Wexford,</hi> into which the enemy had put a gariſon conſiſting of their Army, this Town having until then been ſo confident of their own ſtrength, as that they would not at any time ſuffer a gariſon to be impoſed upon them; The com<g ref="char:EOLhyphen"/>mander that brought in thoſe forces was Colonel <hi>David Synnot,</hi> who took upon him the command of the place, to whom I ſent a ſummons, a Copy whereof is this incloſed, between whom and me there paſſed Anſwers and Replies; Copies whereof theſe alſo are. Whilſt theſe Papers were paſſing be<g ref="char:EOLhyphen"/>tween us, I ſent the Lieut. General with a party of dragoons, horſe and foot, to indeavor to reduce their Fort, which lay at the mouth of their Har<g ref="char:EOLhyphen"/>bor, about ten miles diſtant from us, to which he ſent a Troop of dragoons, but the enemy quit their Fort, leaving behinde them about ſeven great Guns, betook themſelves by the help of their boat to a fri<g ref="char:EOLhyphen"/>got
+<pb n="5" facs="tcp:132722:3"/>
+of 12 Guns, lying in the Harbor, within Canon-ſhot of the Fort: The dragoons poſſeſſed the Fort, and ſome Seamen belonging to your Fleet, coming happily in at the ſame time, they bent their Guns at the Frigot, and ſhe immediately yielded to mercy, both her ſelf, the ſoldiers that had been in the Fort, and the Seamen that manned her: And whilſt our men were in her, the Town not knowing what had hap<g ref="char:EOLhyphen"/>ned, ſent another ſmall Veſſel to her, which our men alſo took: The Governor of the Town having obtained from me a ſafe conduct for the four per<g ref="char:EOLhyphen"/>ſons mentioned in one of the Papers, to come and treat with me about the ſurrender of the Town, I expected they ſhould have done ſo; but in ſtead thereof, the Earl of <hi>Caſtlehaven</hi> brought to their relief on the Northſide of the River, about five hundred foot, which occaſioned their refuſal to ſend out any to treat, and cauſed me to revoke my ſafe conduct, not thinking it fit to leave it for them to make uſe of it when they pleaſed; our Canon be<g ref="char:EOLhyphen"/>ing landed, and we having removed all our quarters to the South-eaſt end of the Town, next the Caſtle, it was generally agreed that we ſhould bend the whole ſtrength of our Artillery upon the Caſtle, be<g ref="char:EOLhyphen"/>ing perſwaded that if we got the Caſtle, the Town would eaſily follow. Upon <hi>Thurſday</hi> the 11. inſtant (our Batteries being finiſhed the night before) we began to play betimes in the morning, and having ſpent neer a hundred ſhot, the Governors ſtomack came down, and he ſent to me to give leave for four perſons intruſted by him, to come unto me and offer terms of ſurrender, which I condeſcending
+<pb n="6" facs="tcp:132722:4"/>
+to, two field Officers, with an Alderman of the Town, and the Captain of the Caſtle, brought out the Propoſitions incloſed, which for their abomina<g ref="char:EOLhyphen"/>bleneſs, manifeſting alſo the impudency of the men, I thought fit to preſent to your view, together with my anſwer, which indeed had no effect; for whilſt I was preparing of it, ſtudying to preſerve the Town from plunder, that it might be of the more uſe to you and your Army, The Captain who was one of the Commiſſioners being fairly treated, yiel<g ref="char:EOLhyphen"/>ded up the Caſtle to us: upon the top of which our men no ſooner appeared, but the enemy quit<g ref="char:EOLhyphen"/>ted the walls of the Town, which our men perceiving, ran violently upon the Town with their ladders and ſtormed it: And when they were come into the Market place, the enemy making a ſtiff reſi<g ref="char:EOLhyphen"/>ſtance, our forces brake them, and then put all to the ſword that came in their way: Two Boatfuls of the Enemy attempting to eſcape, being overpreſt with numbers, ſunk, whereby were drowned near Three hundred of them: I believe in all there was loſt of the Enemy not many leſs then two thouſand, and I believe not Twenty of yours killed, from firſt to laſt of the Siege. And indeed, it hath not with<g ref="char:EOLhyphen"/>out cauſe been deeply ſet upon our hearts, that we intending better to this place, then ſo great a ruine, hoping the Town might be of more uſe to you and your Army; yet God would not have it ſo, but by an unexpected Providence, in his Righteous Juſtice, brought a juſt Judgement upon them, cauſing them to become a prey to the Soldier, who in their Pyracies had made preys of ſo many families, and made
+<pb n="7" facs="tcp:132722:4"/>
+with their bloods to anſwer the cruelties which they had exerciſed upon the lives of divers poor Prote<g ref="char:EOLhyphen"/>ſtants; two of which I have been lately acquainted with: About ſeven or eight-ſcore poor Proteſtants were by them put into an old Veſſel, which being as ſome ſay bulged by them, the Veſſel ſunk, and they were all preſently drowned in the Harbor: The other was thus, They put divers poor Proteſtants in<g ref="char:EOLhyphen"/>to a Chappel, which ſince they have uſed for a Maſs houſe, and in which one or more of their Prieſts were now killed, where they were famiſhed to death.</p>
+            <p>The Soldier got a very good Booty in this place, and had they not had opportunity to carry their goods over the River, whileſt we beſieged it, it would have been much more. I could have wiſhed for their own good, and the good of the Gariſon, they had been more moderate. Some things which were not eaſily portable, we hope we ſhall make uſe of to your behoof: There are great quantities of Iron, Hides, Tallow, Salt, Pipe, and Barrel Staves, which are under Commiſſioners hands to be ſecured. We be<g ref="char:EOLhyphen"/>lieve there are near a hundred Canon in the Fort, and elſewhere in and about the Town: Here is likewiſe ſome very good ſhipping; here are three Veſſels, one of them of thirty four Guns, which a weeks time would fit to Sea; there is another of about 20 Guns, very near ready likewiſe; and one other frigot of 20 Guns, upon the ſtocks, made for ſailing, which is built up to the uppermoſt Deck, for her handſom<g ref="char:EOLhyphen"/>neſs ſake I have appointed the workmen to finiſh her, here being materials to do it, if you or the Councel of State ſhall approve thereof. The Friggot alſo taken by the Fort, is a moſt excellent Veſſel for ſail<g ref="char:EOLhyphen"/>ing,
+<pb n="8" facs="tcp:132722:5"/>
+beſides divers other Ships and Veſſels in the Har<g ref="char:EOLhyphen"/>bor. This Town is now ſo in your power, that the former Inhabitants I believe ſcarce one in twenty can challenge any propriety in their houſes, moſt of them are run away, and many of them killed in this ſer<g ref="char:EOLhyphen"/>vice; and it were to be wiſhed, that an honeſt peo<g ref="char:EOLhyphen"/>ple would come and plant here, where are very good houſes, and other Accommodations fitted to their hands, and may by your favor be made of encou<g ref="char:EOLhyphen"/>ragement to them; as alſo a ſeat of good trade, both inward and outward, and of marvellous great ad<g ref="char:EOLhyphen"/>vantage in the point of the Herring and other fiſhing. The Town is pleaſantly ſeated, and ſtrong, having a Rampert of Earth within the Wall, near fifteen foot thick. Thus it hath pleaſed God to give into your hands this other Mercy, for which, as for all, we pray God may have all the glory: Indeed your in<g ref="char:EOLhyphen"/>ſtruments are poor, and weak, and can do nothing but through Believing, and that is the gift of God alſo. I humbly take leave, and reſt,</p>
+            <closer>
+               <signed>Your moſt humble Servant, <hi>O. CROMVVEL.</hi>
+               </signed>
+               <dateline>
+                  <hi>Wexford,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 4. 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>A day or two before our Battery was planted,</hi> Or<g ref="char:EOLhyphen"/>mond, <hi>the Earl of</hi> Caſtlehaven, <hi>the Lord of</hi> Ardes <hi>and</hi> Clanneboys <hi>were on the other ſide of the water, with about One thouſand eight hundred Horſe, One thouſand five hundred Foot, and offered to put in four or five hundred Foot more into the Town, which the Town refuſing, he marched away in all haſte: I ſent the Lieutenant General after him, with about One thouſand four hundred Horſe, but the Enemy made from him.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:132722:5"/>
+            <head>For the Commnnder in Chief within the Town of <hi>Wexford.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving brought the Army belonging to the Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> before this place, to reduce it to its due obedience, to the end effuſion of blood may be prevented, and the Town and Counrty about it preſerved from ruine, I thought fit to Summon you to deliver the ſame to me, to the uſe of the State of <hi>England:</hi> By this offer I hope it will clearly appear where the guilt will lie, if innocent perſons ſhould come to ſuffer with the nocent. I expect your ſpeedy Anſwer, and reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>O. Cromwel.</hi>
+               </signed>
+               <dateline>
+                  <date>October 3. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter_of_response">
+            <head>For the Lord General <hi>Cromwel.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received your Letters of Summons for the de<g ref="char:EOLhyphen"/>livery up of this Town into your hands, which ſtandeth not with my Honor to do of my ſelf, neither will I take it upon me, without the advice of the reſt of the Officers and Major of this Corporation, this Town being of ſo great conſequence to all <hi>Ireland,</hi> whom I will call together and confer with, and return my reſolution unto you to morrow by Twelve of the Clock; in the mean time, if you be ſo pleaſed, I am content to forbear all acts of Hoſtility, ſo you per<g ref="char:EOLhyphen"/>mit no approach to be made: Expecting your Anſwer in that particular, I remain,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips Servant, <hi>Da: Sinnot.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter_of_response">
+            <pb n="10" facs="tcp:132722:6"/>
+            <head>For the Lord General <hi>Cromwel.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have adviſed with the Major and Officers as I pro<g ref="char:EOLhyphen"/>miſed, and thereupon am content that four whom I ſhall imploy, may have a Conference and Treaty with four of yours, to ſee if any Agreement and under<g ref="char:EOLhyphen"/>ſtanding may be begot between us: To this purpoſe, I deſire you to ſend mine a ſafe conduct, as I do here<g ref="char:EOLhyphen"/>by promiſe to ſend unto yours, when you ſend me their names; and I pray that the meeting may be had to morrow at Eight of the clock in the forenoon, that they may have ſufficient time to confer and debate to<g ref="char:EOLhyphen"/>gether, and determine and compoſe the matter; and that the meeting and place may be agreed upon, and the ſafe conducts mutually ſent for the ſaid Meeting this afternoon: Expecting your Anſwer hereto, I reſt,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Servant, <hi>Da: Sinnot.</hi>
+               </signed>
+               <dateline>
+                  <hi>Wexford,</hi> 
+                  <date>4 <hi>October.</hi> 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Send me the names of your Agents, their qualities and degrees.</p>
+               <p>Thoſe I fix upon are Major <hi>James Birn,</hi> Major <hi>Theobald Dillon,</hi> Alderman <hi>Nicholas Cheevers,</hi> Mr. <hi>William Stafford.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>To the Commander in Chief in <hi>Wexford.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving ſummoned you to deliver the Town of <hi>Wexford</hi> into my hands, I might well expect the delivery thereof, and not a formal Treaty, which is ſel<g ref="char:EOLhyphen"/>dom granted, but where the things ſtand upon a more equal foot; If therefore your ſelf or the Town have any deſires to offer, upon which you will ſurrender the place to me, I ſhall be able to judge of the reaſonable<g ref="char:EOLhyphen"/>neſs
+<pb n="11" facs="tcp:132722:6"/>
+of them, when they are made known to me: To which end, if you ſhall think fit to ſend the perſons named in your laſt, intruſted by your ſelf and the Town, by whom I may underſtand your deſires, I ſhall give you a ſpeedy and fitting anſwer; And I do here<g ref="char:EOLhyphen"/>by ingage my ſelf, that they ſhall return in ſafety to you. I expect your anſwer hereunto within an hour, and reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>O. C.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 4. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter_of_response">
+            <head>For the Lord General <hi>Cromwel.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have returned you a civil anſwer, to the beſt of my judgement, and thereby I finde you undervalue me and this place ſo much, as you think to have it ſurren<g ref="char:EOLhyphen"/>dred without capitulation or honorable terms, as ap<g ref="char:EOLhyphen"/>pears by your hours limitation in your laſt. Sir, had I never a man in this Town, but the Townſmen and the Artillery here planted, I ſhould conceive my ſelf in a ve<g ref="char:EOLhyphen"/>ry befitting condition, to make Honorable Conditions; and having a conſiderable Party with them in the place, I am reſolved to dye honorably, or make ſuch Condi<g ref="char:EOLhyphen"/>tions as may ſecure my Honor and Life in the eyes of my own Party; to which reaſonable terms if you hearken not, or give me time to ſend my Agents, till eight of the clock in the forenoon to morrow with my Propoſi<g ref="char:EOLhyphen"/>tions, with a further ſafe Conduct, I leave you to your better judgement, and my ſelf to the aſſiſtance of the Almighty: And ſo conclude,</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant,</hi> Da. Sinnot.</signed>
+               <dateline>
+                  <hi>Wexford,</hi> 
+                  <date>4. <hi>Octob.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter_of_response">
+            <pb n="12" facs="tcp:132722:7"/>
+            <head>For the Lord General <hi>Cromwel.</hi>
+            </head>
+            <p>My Lord, Even as I was ready to ſend out my A<g ref="char:EOLhyphen"/>gents unto you, the Lord General of the Horſe came hither with a relief, unto whom I communicated the proceedings between your Lordſhip and me, and delivered him the Propoſitions I intended to diſpatch unto your Lordſhip, who hath deſired a ſmall time to conſider of them, and to ſpeed them unto me, which my Lord I could not deny, he having a Commanding power over me; pray my Lord believe that I do not do this to trifle out time, but for his preſent content; and if I finde any long delay in his Lordſhips returning them back unto me, I will proceed of my ſelf accord<g ref="char:EOLhyphen"/>ing to my firſt intention, to which I beſeech your Lord<g ref="char:EOLhyphen"/>ſhip give credit at the requeſt,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed> of your Lordſhips ready Servant, <hi>Da: Sinnot.</hi>
+               </signed>
+               <dateline>
+                  <hi>Wexford,</hi>
+                  <date>5 <hi>Octob.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Commander in Chief in <hi>Wexford.</hi>
+            </head>
+            <p>SIr, You might have ſpared your trouble in the ac<g ref="char:EOLhyphen"/>compt you give me of your Tranſaction with the Lord General of your Horſe, and of your Reſolution in caſe he anſwer not your expectation in point of time; Theſe are your own concernments, and it behoves you to improve, and the relief you mention, to your beſt ad<g ref="char:EOLhyphen"/>vantage; All that I have to ſay, is to deſire you to take notice, that I do hereby revoke my ſafe Conduct from the perſons mentioned therein; when you ſhall ſee cauſe to Treat, you may ſend for another. I reſt,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your Servant, <hi>O. C.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 6. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter_of_response">
+            <pb n="13" facs="tcp:132722:7"/>
+            <head>For the Lord General <hi>Cromwel.</hi>
+            </head>
+            <p>
+               <hi>SIr,</hi> my Propoſitions being now prepared, I am ready to ſend my Agents with them unto you, and for their ſafe return: I pray you to ſend a ſafe conduct by the bearer unto me, in hope an Honotable Agreement may thereupon ariſe between your Lordſhip and</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips Servant, <hi>Da: Sinnot.</hi>
+               </signed>
+               <dateline>
+                  <hi>Wexford,</hi> 
+                  <date>5 <hi>Octob.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter_of_response">
+            <head>For the Lord General <hi>Cromwel.</hi>
+            </head>
+            <p>
+               <hi>SIr,</hi> In performance of my laſt, I deſire your Lord<g ref="char:EOLhyphen"/>ſhip to ſend me a ſafe conduct for Major <hi>Theobald Dillon,</hi> Major <hi>James Birn,</hi> Alderman <hi>Nicholas Che<g ref="char:EOLhyphen"/>vers,</hi> and Captain <hi>James Stafford,</hi> whom I will ſend to your Lordſhip, inſtructed with my deſires; and ſo I reſt,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Servant, <hi>Da: Sinnot.</hi>
+               </signed>
+               <dateline>
+                  <hi>Wexford,</hi> 
+                  <date>11 <hi>Octob.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter_of_response">
+            <head>For the Lord General <hi>Cromwel..</hi>
+            </head>
+            <p>
+               <hi>SIr,</hi> the ſafe conduct being left you, and never coming to my hands, through the ignoranee of the Meſſenger: I pray you to ſend it me by the bearer, and I will ſend forth the perſons on receipt thereof, who are ready for that purpoſe: So I reſt,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips Servant, <hi>Da: Sinnot.</hi>
+               </signed>
+               <dateline>
+                  <hi>Wexford</hi> 
+                  <date>11 <hi>Octob.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="propositions">
+            <pb n="14" facs="tcp:132722:8"/>
+            <head>The Propoſitions of Col: <hi>David Sinnot,</hi> Governor of the Town and Caſtle of <hi>Wexford,</hi> for and on the behalf of the Officers and Soldiers, and In<g ref="char:EOLhyphen"/>habitants in the ſaid Town and Caſtle, unto Gene<g ref="char:EOLhyphen"/>ral <hi>Cromwel.</hi>
+            </head>
+            <p>
+               <hi>IMprimis,</hi> That all and every the Inhabitants of the ſaid Town, from time to time, and at all times hereafter, ſhall have free and uninterrupted liberty, publiquely to uſe, exerciſe and profeſs the Roman Catholick Religion, without reſtriction, mulct or penalty, Any Law or Statute to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p n="2">
+               <hi>II.</hi> That the regular and ſecular Roman Catholick Clergy, now poſſeſſed of the Churches, Church-Livings, Monasteries, Re<g ref="char:EOLhyphen"/>ligious Houſes and Chappels in the ſaid Town, and in the Suburbs and Franchiſes thereof, and their ſucceſſors, ſhall have, hold and enjoy to them and their Succeſſors for ever, the ſaid Churches, Church Livings, Monaſteries, Religious Houſes and Chappels, and ſhall teach and preach in them publiquely, without any mo<g ref="char:EOLhyphen"/>leſtation, Any Law or Statute to the contrary notwithſtanding.</p>
+            <p n="3">
+               <hi>III.</hi> That <hi>Nicholas</hi> now Lord Biſhop of <hi>Ferns,</hi> and his Suc<g ref="char:EOLhyphen"/>ceſſors, ſhall uſe and exerciſe ſuch Juriſdiction over the Catholicks of his Dioceſs, as ſince his conſecration hitherto he uſed.</p>
+            <p n="4">
+               <hi>IV.</hi> That all the Officers and Soldiers, of what quality or de<g ref="char:EOLhyphen"/>gree ſoever in the ſaid Town and Caſtle, and ſuch of the Inhabi<g ref="char:EOLhyphen"/>tants as are ſo pleaſed, ſhall march with flying Colours, and be conveyed ſafe with their Lives, Artillery, Ordnance, Ammu<g ref="char:EOLhyphen"/>nition, Arms, Goods of all ſorts, Horſes, Moneys, and what elſe belongs to them, to the Town of Roſs, and there be left ſafe, with their own party, allowing each Muskettier towards their march, a pound of powder, four yards of match, and twelve brace of Bul<g ref="char:EOLhyphen"/>lets, and a ſtrong Convoy to be ſent with the ſaid Soldiers, within four and twenty hours after the yielding up of the ſaid Town.</p>
+            <p n="5">
+               <hi>V.</hi> That ſuch of the Inhabitants of the ſaid Town, as will de<g ref="char:EOLhyphen"/>ſire to leave the ſame at any time hereafter, ſhall have free liber<g ref="char:EOLhyphen"/>ty to carry away out of the ſaid Town, all their Frigots, Artillery, Arms, Powder, Bullets, Match, Corn, Mault, and other proviſion,
+<pb n="15" facs="tcp:132722:8"/>
+which they have for their defence and ſuſtenance, and all their goods and Chattels, of what quality or condition ſoever, without any maner of diſturbance whatſoever, and have Paſſes, and ſafe Conducts, and Convoys, for their lives and ſaid goods to <hi>Roſs,</hi> or where elſe they ſhall think fit.</p>
+            <p n="6">
+               <hi>VI.</hi> That the Major, Bayliffs, Freeburgeſſes and Commons of the ſaid Town, may have, hold and enjoy the ſaid Town and Suburbs, their Commons, their Franchiſes, and their Liberties and Immunities which hitherto they enjoyed; and that the Major, Bayliffs and Freeburgeſſes, may have the Government of the ſaid Town, as hitherto they enjoyed the ſame from the Realm of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and that they may have no other Government, they adhering to the State of <hi>England,</hi> and obſerving their Orders, and the Or<g ref="char:EOLhyphen"/>ders of their Governors in this Realm for the time being.</p>
+            <p n="7">
+               <hi>VII.</hi> That all and every the Burgeſſes and Inhabitants, either Native or Stranger of the ſaid Town, who ſhall continue their ahode therein, or come to live there within three Moneths, and their heirs, ſhall have, hold and enjoy, All and ſingular their ſeve<g ref="char:EOLhyphen"/>ral Caſtles, Meſſuages, Houſes, Lands, Tenements and Here<g ref="char:EOLhyphen"/>ditaments within the Land of Ireland, and all their goods and Chattels, of what nature, quality or condition ſoever, to them and their heirs, to their own ſeveral uſes for ever, without moleſtation.</p>
+            <p n="8">
+               <hi>VIII.</hi> That ſuch Burgeſs or Burgeſſes, or other Inhabitant of he ſaid Town, as ſhall at any time hereafter he deſirous to leave the ſaid Town, ſhall have free leave to diſpoſe of their Real and Perſonal Eſtates reſpectively, to their beſt advantage; and further, have full liberty and a ſafe Conduct reſpectively to go into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or elſewhere, according to their ſeveral pleaſures, who ſhall deſire to depart the ſame.</p>
+            <p n="9">
+               <hi>IX.</hi> That all and ſingular the Inhabitants of the ſaid Town, either Native or Stranger from time to time, &amp; at all times hereafter, ſhal have, reap and enjoy the full Liberty of Free-born Engliſh Sub<g ref="char:EOLhyphen"/>jects, without the leaſt incapacity or reſtriction therein; and that all the Free-men of the ſaid Town, from time to time, ſhall be as Free in all the Sea-Ports, Cities and Towns in <hi>England,</hi> as the Free-men of all and every the ſaid Cities and Towns; and all and every the Free-men of the ſaid Cities and Towns, to be as Free in the ſaid Town of <hi>Wexford,</hi> as the Free-men there of, for their
+<pb n="16" facs="tcp:132722:9" rendition="simple:additions"/>
+greater incouragement to Trade and Commerce together of all hands.</p>
+            <p n="10">
+               <hi>X.</hi> That no memory remain of any Hoſtility or diſtance which was hitherto between the ſaid Town and Caſtle of the one part, and the Parliament or State of <hi>England</hi> of the other part, but that all act and acts, tranſgreſſions, offences, depradations, and other Crimes of what nature or quality ſoever, be they ever ſo tranſcendent, at<g ref="char:EOLhyphen"/>tempted, or done, or ſuppoſed to be attempted or done, by the Inha<g ref="char:EOLhyphen"/>bitants of the ſaid Town, or any other heretofore or at preſent ad<g ref="char:EOLhyphen"/>hering to the ſaid Town, either Native or Stranger, and every of them, ſhall paſs in Oblivion, without chaſtiſement, challenge, recom<g ref="char:EOLhyphen"/>pence, demand, or queſtioning, for them or any of them, now or at any time hereafter.</p>
+         </div>
+         <div type="episcopal_order">
+            <p>THe Body of <hi>Francis Talbot,</hi> who dyed an obſtinate Here<g ref="char:EOLhyphen"/>tique, and finally therein impenitent, is to be Buried in <hi>Paenam Haereſeos &amp; finalis Impenitentiae nec non in terrorem ali<g ref="char:EOLhyphen"/>orum,</hi> with only one Candle at the Grave, at nine of the clock by night, without a Bell in the Church or Street, without Prieſt, Croſs, Book or Prayer; the place of his Burial is to be in the Ale of St. <hi>Mary</hi>'s Church-Yard, neareſt to the Garden of the Par<g ref="char:EOLhyphen"/>ſonage: All which concerning the ſaid Burial, we have ordered to be done with the advice of men learned in Divinity; and who ſhall exceed this maner of the ſaid <hi>Francis</hi> his Burial, is to incur Church-Cenſures: No Wax, Taper, or Candle, or Torch is to be uſed.</p>
+            <closer>
+               <signed>Nicholaus Epiſcopus Fernenſis.</signed>
+               <dateline>
+                  <hi>Given at the Fryars Monaſtery,</hi> 
+                  <date>
+                     <hi>the laſt of</hi> December, 1646.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132722:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
